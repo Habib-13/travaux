@@ -15,9 +15,12 @@ Différentes maps son jouable toutes pour la plus part destructibles et avec dif
 ### **Personnages et Maps.**
 
 Plus de 30 unités tous différents sont désormais disponible dans le jeu avec plus de 50 personnages jouables qui pour ont chacun tous une manière de jouer différentes, des équipement différents et encore plus à découvrir dans le jeu.
+
+![Image des personnages](https://image.jeuxvideo.com/medias-sm/153474/1534743562-4637-capture-d-ecran.jpg)
+
 Plus de 15 maps jouables qui ont un énorme taux de déstructibilité et de manière d'attaquer.
 
-![Image de Maps-R6](https://octodex.github.com/images/Maps-R6.jpg)
+![Image de Maps-R6](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/PZWBh74yLbB1DH7yJgo5a/1dc60140676a80dfc044b1d307b1c990/R6_Casual_Map_Pool_960X540_Y4S4_2ndRotation.png)
 
 ### **Modes de jeu.**
 
@@ -41,6 +44,10 @@ le monde multijoueur est le mode principale de ce jeu, il se compose en 4 types 
 
 * Parties Personnalisée = Comme son l'indique elle nous permet de crée des sessions de jeu où l'on peut inviter 10 personnes max, pour jouer sur la carte que l'on souhaite et avec les paramètres que de jeu qu'on souhaite.
 
+#### **Les différents grades :**
+
+![Image des grades](https://static.wikia.nocookie.net/rainbowsix/images/f/f3/Ranked_Skill_Levels.PNG/revision/latest?cb=20200617044843)
+
 ### **Objectifs de la partie.**
 
 * Extraction d'otage = l'objectifs est d'extraire un otage du bâtiment, si nous sommes en attaque et empêcher que les attaquants ne l'atteigne si nous sommes en défense.
@@ -50,3 +57,5 @@ le monde multijoueur est le mode principale de ce jeu, il se compose en 4 types 
 * Désamorçage de bombe =l'objectifs est d'éliminer tous les adversaires ou de désamorcer l'une des 2 bombes présentes a travers la map qui pourra être choisie au préalable par les défenseurs
 
 *A noté qu'en Partie classés, il n'y a que le mode "Désamorçage de bombe" qui est disponible.*
+
+Lien pour acheter l'édition deluxe sur instant gaming ( pour PC ) : <https://www.instant-gaming.com/fr/4891-acheter-jeu-uplay-tom-clancys-rainbow-six-siege-deluxe-edition/>
