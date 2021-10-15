@@ -18,7 +18,7 @@ Plus de 30 unités tous différents sont désormais disponible dans le jeu avec 
 
 ![Image des personnages](https://image.jeuxvideo.com/medias-sm/153474/1534743562-4637-capture-d-ecran.jpg)
 
-Plus de 15 maps jouables qui ont un énorme taux de déstructibilité et de manière d'attaquer.
+Plus de 15 maps jouables qui ont un énorme taux de déstructibilité et de manière d'attaquer differentes.
 
 ![Image de Maps-R6](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/PZWBh74yLbB1DH7yJgo5a/1dc60140676a80dfc044b1d307b1c990/R6_Casual_Map_Pool_960X540_Y4S4_2ndRotation.png)
 
