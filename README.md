@@ -2,6 +2,8 @@
 
 *Tom Clancy's Rainbow Six: Siege est un jeu vidéo de tir tactique à la première personne développé par Ubisoft Montréal et éditée par Ubisoft sortie le 1er écembre 2015 sur PS4, XBOX et PC.*
 
+![Image de presentation](https://i2.wp.com/sblog.altervista.org/wp-content/uploads/2018/12/rainbow-six-siege-1.jpeg?resize=800%2C445&ssl=1)
+
 ### **Rainbow Six, c'est quoi ?**
 
 R6 est donc un jeu tactique joué a la première personne où l'on incarne des agents de plusieurs unités de force spéciale éparpiller à travers le monde qui se sont tous réunis sous la même enseigne qui se nomme " L'équipe Rainbow ".
